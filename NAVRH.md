@@ -9,7 +9,7 @@ V systéme sa budú uchovávať informácie o knihách v knižnici, skladoch, č
 1.Rezervovať si knihu pomocou formulára
 2.Vyhľadať knihu podľa názvu
 3.Vyhľadať knihu podľa autora
-4.Zobrazuje upozornenia o zmene stavu jeho objednávok
+4.Zobraziť upozornenia o zmene stavu jeho objednávok
 
 Zamestnanci budú môcť:
 1.Vytvoriť čitateľovi pôžičku na základe jeho rezerácie
@@ -22,7 +22,11 @@ Zamestnanci budú môcť:
 
 3)Odhadnete čas pre naprogramovanie jednotlivých činností v hodinách.
 
-//TODO
+Časová naročnosť projektu by mala byť 20 človekohodín.
+
+
+
+
  
 1)Vyberte si jazyk, operačný systém, cieľové prostredie.
 
