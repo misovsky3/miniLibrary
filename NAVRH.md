@@ -46,8 +46,6 @@ Zamestnanci budú môcť:
 
 **Vystavovanie upomienok za oneskorené vrátenie knihy** - 2h
 
-//TODO
-
 1)Vyberte si jazyk, operačný systém, cieľové prostredie.
 
 Na prepojenie relačnej databázy s naším kódom v jazyku JavaScript budeme používať Prismu.
