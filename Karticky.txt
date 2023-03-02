@@ -14,53 +14,59 @@ Vieme odhadnúť
 ===============================================
 
 
-Návrh databázy a kódového základu - 2h
-Dôležitosť:
-Náročnosť implementácie:
-Časový odhad:
-
+Návrh databázy a kódového základu
+Dôležitosť: Nevyhnutné
+Náročnosť implementácie: Vieme odhadnúť približne
+Časový odhad: 2h
 
 Rezervovať si knihu pomocou formulára 
-Dôležitosť:
-Náročnosť implementácie:
+Dôležitosť: Nevyhnutné
+Náročnosť implementácie: Vieme odhadnúť
 Časový odhad: 2h
 
 Vyhľadať knihu podľa názvu 
-Dôležitosť:
-Náročnosť implementácie:
+Dôležitosť: Nevyhnutné
+Náročnosť implementácie: Vieme odhadnúť
 Časový odhad: 1h
 
 Vyhľadať knihu podľa autora 
-Dôležitosť:
-Náročnosť implementácie:
+Dôležitosť: Prinášajú veľkú hodnotu
+Náročnosť implementácie: Vieme odhadnúť
 Časový odhad: 1h
 
 Zobrazuje upozornenia o zmene stavu jeho objednávok
-Dôležitosť:
-Náročnosť implementácie:
+Dôležitosť: Zákazníkov by to potešilo
+Náročnosť implementácie: Vieme odhadnúť približne
 Časový odhad: 1,5h
 
-Vytvoriť čitateľovi pôžičku na základe jeho rezervácie 
-Dôležitosť:
-Náročnosť implementácie:
-Časový odhad:2h
+Vytvoriť čitateľovi pôžičku na základe jeho rezervácie
+Dôležitosť: Nevyhnutné
+Náročnosť implementácie: Vieme odhadnúť
+Časový odhad: 2h
 
-Obsluhovať vrátenie knihy 
-Dôležitosť:
-Náročnosť implementácie:
-Časový odhad:2h
+Obsluhovať vrátenie knihy
+Dôležitosť: Nevyhnutné
+Náročnosť implementácie: Vieme odhadnúť
+Časový odhad: 2h
 
-Simulovať prevoz kníh z a do skladov, kam patria 
-Dôležitosť:
-Náročnosť implementácie:
-Časový odhad:1,5h
+Návrh simulačného mechanizmu prevozu
+Simulovať prevoz kníh z a do skladov, kam patria
+Dôležitosť: Nevyhnutné
+Náročnosť implementácie: Vieme odhadnúť
+Časový odhad: 1h
 
-Splatiť pozdlžností čitateľa 
-Dôležitosť:
-Náročnosť implementácie:
+Implementácia prevozu
+Simulovať prevoz kníh z a do skladov, kam patria
+Dôležitosť: Nevyhnutné
+Náročnosť implementácie: Vieme odhadnúť
+Časový odhad: 2h
+
+Splatiť pozdlžností čitateľa
+Dôležitosť: Nevyhnutné
+Náročnosť implementácie: Vieme odhadnúť
 Časový odhad: 2h
 
 Vystavovanie upomienok za oneskorené vrátenie knihy
-Dôležitosť:
-Náročnosť implementácie:
+Dôležitosť: Nevyhnutné
+Náročnosť implementácie: Vieme odhadnúť približne
 Časový odhad: 2h
