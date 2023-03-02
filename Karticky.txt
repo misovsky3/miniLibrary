@@ -20,30 +20,30 @@ Náročnosť implementácie:
 Časový odhad:
 
 
-Rezervovať si knihu pomocou formulára - 2h
+Rezervovať si knihu pomocou formulára 
 Dôležitosť:
 Náročnosť implementácie:
-Časový odhad:
+Časový odhad: 2h
 
-Vyhľadať knihu podľa názvu - 1h
+Vyhľadať knihu podľa názvu 
 Dôležitosť:
 Náročnosť implementácie:
-Časový odhad:
+Časový odhad: 1h
 
-Vyhľadať knihu podľa autora - 1h
+Vyhľadať knihu podľa autora 
 Dôležitosť:
 Náročnosť implementácie:
-Časový odhad:
+Časový odhad: 1h
 
 Zobrazuje upozornenia o zmene stavu jeho objednávok - 3h
 Dôležitosť:
 Náročnosť implementácie:
-Časový odhad:
+Časový odhad: 1,5h
 
 Vytvoriť čitateľovi pôžičku na základe jeho rezervácie - 2h
 Dôležitosť:
 Náročnosť implementácie:
-Časový odhad:
+Časový odhad:2h
 
 Obsluhovať vrátenie knihy - 2h
 Dôležitosť:
