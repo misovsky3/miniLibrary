@@ -1,3 +1,4 @@
+==============================================
 Dôležitosť:
 Nevyhnutné
 Prinášajú veľkú hodnotu
@@ -10,8 +11,7 @@ Vieme odhadnúť
 
 Časový odhad:
 0-2 hodiny
-
-
+===============================================
 
 
 Návrh databázy a kódového základu - 2h
