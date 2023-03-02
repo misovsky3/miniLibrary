@@ -10,3 +10,57 @@ Vieme odhadnúť
 
 Časový odhad:
 0-2 hodiny
+
+
+
+
+Návrh databázy a kódového základu - 2h
+Dôležitosť:
+Náročnosť implementácie:
+Časový odhad:
+
+
+Rezervovať si knihu pomocou formulára - 2h
+Dôležitosť:
+Náročnosť implementácie:
+Časový odhad:
+
+Vyhľadať knihu podľa názvu - 1h
+Dôležitosť:
+Náročnosť implementácie:
+Časový odhad:
+
+Vyhľadať knihu podľa autora - 1h
+Dôležitosť:
+Náročnosť implementácie:
+Časový odhad:
+
+Zobrazuje upozornenia o zmene stavu jeho objednávok - 3h
+Dôležitosť:
+Náročnosť implementácie:
+Časový odhad:
+
+Vytvoriť čitateľovi pôžičku na základe jeho rezervácie - 2h
+Dôležitosť:
+Náročnosť implementácie:
+Časový odhad:
+
+Obsluhovať vrátenie knihy - 2h
+Dôležitosť:
+Náročnosť implementácie:
+Časový odhad:
+
+Simulovať prevoz kníh z a do skladov, kam patria - 3h
+Dôležitosť:
+Náročnosť implementácie:
+Časový odhad:
+
+Splatiť pozdlžností čitateľa - 2h
+Dôležitosť:
+Náročnosť implementácie:
+Časový odhad:
+
+Vystavovanie upomienok za oneskorené vrátenie knihy - 2h
+Dôležitosť:
+Náročnosť implementácie:
+Časový odhad:
