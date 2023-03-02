@@ -1,0 +1,12 @@
+Dôležitosť:
+Nevyhnutné
+Prinášajú veľkú hodnotu
+Zákazníkov by to potešilo
+
+Náročnosť implementácie:
+Nevieme odhadnúť vôbec
+Vieme odhadnúť približne
+Vieme odhadnúť
+
+Časový odhad:
+0-2 hodiny
