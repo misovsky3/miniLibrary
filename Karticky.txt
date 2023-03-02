@@ -35,32 +35,32 @@ Dôležitosť:
 Náročnosť implementácie:
 Časový odhad: 1h
 
-Zobrazuje upozornenia o zmene stavu jeho objednávok - 3h
+Zobrazuje upozornenia o zmene stavu jeho objednávok
 Dôležitosť:
 Náročnosť implementácie:
 Časový odhad: 1,5h
 
-Vytvoriť čitateľovi pôžičku na základe jeho rezervácie - 2h
+Vytvoriť čitateľovi pôžičku na základe jeho rezervácie 
 Dôležitosť:
 Náročnosť implementácie:
 Časový odhad:2h
 
-Obsluhovať vrátenie knihy - 2h
+Obsluhovať vrátenie knihy 
 Dôležitosť:
 Náročnosť implementácie:
-Časový odhad:
+Časový odhad:2h
 
-Simulovať prevoz kníh z a do skladov, kam patria - 3h
+Simulovať prevoz kníh z a do skladov, kam patria 
 Dôležitosť:
 Náročnosť implementácie:
-Časový odhad:
+Časový odhad:1,5h
 
-Splatiť pozdlžností čitateľa - 2h
+Splatiť pozdlžností čitateľa 
 Dôležitosť:
 Náročnosť implementácie:
-Časový odhad:
+Časový odhad: 2h
 
-Vystavovanie upomienok za oneskorené vrátenie knihy - 2h
+Vystavovanie upomienok za oneskorené vrátenie knihy
 Dôležitosť:
 Náročnosť implementácie:
-Časový odhad:
+Časový odhad: 2h
