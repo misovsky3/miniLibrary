@@ -1,0 +1,33 @@
+==============================================
+Mala verzia karticiek
+===============================================
+
+Návrh databázy a kódového základu
+Dôležitosť: Nevyhnutné
+Náročnosť implementácie: Vieme odhadnúť približne
+Časový odhad: 2h
+
+Rezervovať si knihu pomocou formulára 
+Dôležitosť: Nevyhnutné
+Náročnosť implementácie: Vieme odhadnúť
+Časový odhad: 2h
+
+Vyhľadať knihu podľa názvu 
+Dôležitosť: Nevyhnutné
+Náročnosť implementácie: Vieme odhadnúť
+Časový odhad: 1h
+
+Vyhľadať knihu podľa autora 
+Dôležitosť: Prinášajú veľkú hodnotu
+Náročnosť implementácie: Vieme odhadnúť
+Časový odhad: 1h
+
+Vytvoriť čitateľovi pôžičku na základe jeho rezervácie
+Dôležitosť: Nevyhnutné
+Náročnosť implementácie: Vieme odhadnúť
+Časový odhad: 2h
+
+Obsluhovať vrátenie knihy
+Dôležitosť: Nevyhnutné
+Náročnosť implementácie: Vieme odhadnúť
+Časový odhad: 2h
